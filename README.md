@@ -1,4 +1,5 @@
 # Energy Storage Financial Analytics Dashboard
+Part of my portfolio → [jefferynketiah.com](https://jefferynketiah.com)
 
 An automated data pipeline written in Python that extracts, cleans, and visualizes market capitalization data and revenue performance for key entities in the grid-scale and next-generation battery sectors.
 
